@@ -43,7 +43,7 @@ Shift left click: Use (useful for duos, since you can shift left click it and cl
 
 menu_entry_swapper.png
 ## Monster HP Percentage
-Shows the HP percentage of specific monsters. Very useful in ToA since specific HP % triggers special bosses attacks. NPC Names: `Ba-ba,akkha,kephri,zebak,*warden`
+Shows the HP percentage of specific monsters. Very useful in ToA since specific HP % triggers special bosses attacks. NPC Names: `Ba-ba,akkha,kephri,zebak,tumeken's warden`
 
 ![Monster HP Percentage](https://camo.githubusercontent.com/209df2f8b6e178841a925c009f04856a34ee799cfe334e4ec63ef094eaa3eff3/68747470733a2f2f692e696d6775722e636f6d2f4430384f5048792e706e67)
 
