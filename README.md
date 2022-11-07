@@ -37,12 +37,14 @@ ToA is all about tribiding. If you are not very familiar with it, or just wanna 
 
 ## Menu Entry Swapper
 Very useful for the "Shift click Walk here" on a lot of ToA rooms. I personally activate the shift click option on every menu, so that I can hold shift and walk anywhere without missclicking boulders or any other thing. You can also change the left click and shift left click on specific items, such as:
-- Supplies
-Left click: Withdraw-all
-Shift left click: Resupply
-- Neutralising Potion (Ba-ba puzzle room)
-Left click: Pour
-Shift left click: Use (useful for duos, since you can shift left click it and click on your duo to use the potion on him)
+
+**Supplies**
+- Left click: Withdraw-all
+- Shift left click: Resupply
+
+**Neutralising Potion** (Ba-ba puzzle room)
+- Left click: Pour
+- Shift left click: Use (useful for duos, since you can shift left click it and click on your duo to use the potion on him)
 
 ![Menu entry swapper configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/menu_entry_swapper.png?sanitize=true)
 
