@@ -11,9 +11,9 @@ https://github.com/MoreBuchus/buchus-plugins/tree/61c894cc8ee0214920d6bdbaf57501
 ## Custom Menu Swaps
 Currently using it for an entry swap on Akkha. This prioritizes the attack on the shadow instead of the real Akkha.
 Put this on Custom swaps: `attack,akkha's shadow*`
-custom_menu_swaps.png
+![Custom swap configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/custom_menu_swaps.png?sanitize=true)
 Also useful for the Bank swaps, making it easy to eat/wield stuff without closing the bank interface.
-custom_menu_swaps2.png
+![Custom swap configs 2](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/custom_menu_swaps2.png?sanitize=true)
 
 https://github.com/geheur/More-menu-entry-swaps
 ## Ground Markers
