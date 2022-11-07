@@ -11,8 +11,11 @@ https://github.com/MoreBuchus/buchus-plugins/tree/61c894cc8ee0214920d6bdbaf57501
 ## Custom Menu Swaps
 Currently using it for an entry swap on Akkha. This prioritizes the attack on the shadow instead of the real Akkha.
 Put this on Custom swaps: `attack,akkha's shadow*`
+
 ![Custom swap configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/custom_menu_swaps.png?sanitize=true)
+
 Also useful for the Bank swaps, making it easy to eat/wield stuff without closing the bank interface.
+
 ![Custom swap configs 2](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/custom_menu_swaps2.png?sanitize=true)
 
 https://github.com/geheur/More-menu-entry-swaps
@@ -22,7 +25,8 @@ xx.md
 yy.md
  ## Inventory Setups
  Useful for making setup templates, with the option to bank filter based on the selected template. Saves some time while banking and I like it more than bank tabs.
- inventory_setups.png
+ 
+![Inventory setup configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/inventory_setups.png?sanitize=true)
  
 https://github.com/dillydill123/inventory-setups
 ## Inventory Tags
@@ -40,7 +44,10 @@ Shift left click: Use (useful for duos, since you can shift left click it and cl
 menu_entry_swapper.png
 ## Monster HP Percentage
 Shows the HP percentage of specific monsters. Very useful in ToA since specific HP % triggers special bosses attacks. NPC Names: `Ba-ba,akkha,kephri,zebak,*warden`
-monster_hp_percentage.png
+
+![Inventory setup configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/monster_hp_percentage.png?sanitize=true)
+
+
 ## NPC Indicators
 to-do
 ## Party
