@@ -19,6 +19,7 @@ Also useful for the Bank swaps, making it easy to eat/wield stuff without closin
 ![Custom swap configs 2](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/custom_menu_swaps2.png?sanitize=true)
 
 https://github.com/geheur/More-menu-entry-swaps
+
 ## Ground Markers
 This allows you to mark tiles on the ground. I have separated the marks I use on another files:
 xx.md
@@ -31,7 +32,9 @@ yy.md
 https://github.com/dillydill123/inventory-setups
 ## Inventory Tags
 ToA is all about tribiding. If you are not very familiar with it, or just wanna make it easier, this plugins allows you to highlight inventory items with specific colors. I personally use it with red for melee, blue for magic and green for ranged items.
-inventory_tags.png
+
+!Menu entry swapper configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/inventory_tags.png?sanitize=true)
+
 ## Menu Entry Swapper
 Very useful for the "Shift click Walk here" on a lot of ToA rooms. I personally activate the shift click option on every menu, so that I can hold shift and walk anywhere without missclicking boulders or any other thing. You can also change the left click and shift left click on specific items, such as:
 - Supplies
@@ -41,7 +44,8 @@ Shift left click: Resupply
 Left click: Pour
 Shift left click: Use (useful for duos, since you can shift left click it and click on your duo to use the potion on him)
 
-menu_entry_swapper.png
+!Menu entry swapper configs](https://raw.githubusercontent.com/tipicodev/osrs-toa-plugins/main/imgs/menu_entry_swapper.png?sanitize=true)
+
 ## Monster HP Percentage
 Shows the HP percentage of specific monsters. Very useful in ToA since specific HP % triggers special bosses attacks. NPC Names: `Ba-ba,akkha,kephri,zebak,tumeken's warden`
 
